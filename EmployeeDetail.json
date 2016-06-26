@@ -1,0 +1,8 @@
+{  
+   "employee":{  
+      "name":"jhon",
+      "age":23,
+      "sex":"m",
+      "department":"store"
+   }
+}
